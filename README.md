@@ -13,7 +13,7 @@ An application of two cars in the desert, made in Java
 ### Calculator
 A very functional calculator, made in Java
 
-<img src = "https://github.com/JaxonDriver/Programming1Portfolio/blob/master/Screen%20Shot%202018-05-16%20at%207.23.27%20AM.png" width = "250"/>
+<img src = "https://JaxonDriver.github.io/Programming1Portfolio/Screen%20Shot%202018-05-16%20at%207.23.27%20AM.png" width = "250"/>
 
 [Sourcecode](https://github.com/JaxonDriver/Programming1Portfolio/blob/master/Calculator)
 
